@@ -1,1 +1,2 @@
-2016.10.10 - Created Project
+2016.10.10  - Created Project
+            - Added README and CHAANGELOG
